@@ -1,0 +1,4 @@
+C:/Azot/Visual studio/ProgLab/Cursova/Test/build/CMakeFiles/calculator.dir
+C:/Azot/Visual studio/ProgLab/Cursova/Test/build/CMakeFiles/calculator_app.dir
+C:/Azot/Visual studio/ProgLab/Cursova/Test/build/CMakeFiles/edit_cache.dir
+C:/Azot/Visual studio/ProgLab/Cursova/Test/build/CMakeFiles/rebuild_cache.dir
